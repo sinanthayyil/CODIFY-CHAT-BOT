@@ -1,0 +1,44 @@
+/* App.css */
+
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+  background-color: #353641
+}
+
+.Header {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 0;
+  margin-bottom: 20px;
+}
+
+.Inputfield {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.textArea {
+  border: 1px solid #ccc;
+  border-radius: 20px;
+  padding: 10px;
+  width: 500px;
+  margin-right: 10px;
+  font-size: 16px;
+}
+
+.sendButton {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+body {
+  font-family: 'Roboto', sans-serif;
+}
+  
